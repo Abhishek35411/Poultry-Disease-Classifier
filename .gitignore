@@ -1,0 +1,14 @@
+# Ignore model weights, datasets, and large files
+poultry_disease_image_model.h5
+Recording.mp4
+data/
+*.mp4
+*.h5
+*.ckpt
+*.pth
+*.pt
+__pycache__/
+.ipynb_checkpoints/
+.env
+*.env
+.DS_Store
